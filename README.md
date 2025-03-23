@@ -6,7 +6,7 @@ Este proyecto implementa un **Algoritmo de Red Inmune Artificial (AiNet)** para 
 El algoritmo de red inmune artificial aborda el problema MSA en el contexto de la investigación del Alzheimer. La implementación fue presentada en el **13th International Congress of Telematics and Computing (WITCOM 2024)**, celebrado en Mazatlán, México, del **4 al 8 de noviembre de 2024**.
 
 ## Contribución y Publicación
-Este código fue desarrollado como proyecto de la materia *Seminario de Investigación* en colaboración con el **Dr. Ernesto Rios Willarx**.
+Este código fue desarrollado como proyecto de la materia *Seminario de Investigación* en colaboración con el **Dr. Ernesto Rios Willars**.
 
 **Detalles de la publicación:**  
 - **Título:** *Artificial Immune Network Algorithm for the Multiple Sequence Alignment Problem of Alzheimer’s Disease Amyloid-Secretase-Pathway*  
